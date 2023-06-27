@@ -4,7 +4,9 @@
 One of the main benefits of running simulations rather than physical experiments is the ability generate significantly larger numbers of results for less cost. With automation through coding, the ease at which larger numbers of simulations can be ran and the results processed increases. Python is a powerful and easy to learn scripting language that has been widely utilized by the scientific community for data processing, running calculations, and automation. Abaqus has a built in python API that offers many benefits when utilized. From easily extracting data from an Abaqus output database to full simulation automation, the tools offered are powerful. Presented here are example python scripts for interfacing with Abaqus that showcase some of the available features and benefits of using python scripting with Abaqus.
 
 The scripts here are based on and use a simple single-element cube being pulled in tension with a linear-elastic material model shown below in Fig. 1. All of the scripts created were tested on Abaqus 2017.
-200px-Model_Ex.PNG
+
+![alt text](https://github.com/[username]/abaquspy/blob/main/200px-Model_Ex.PNG?raw=true)
+
 Figure 1: Deformed cube being pulled in tension.
 # Pre-processing and Running Simulations
 
