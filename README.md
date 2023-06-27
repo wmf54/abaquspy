@@ -5,7 +5,7 @@ One of the main benefits of running simulations rather than physical experiments
 
 The scripts here are based on and use a simple single-element cube being pulled in tension with a linear-elastic material model shown below in Fig. 1. All of the scripts created were tested on Abaqus 2017.
 
-![alt text](https://github.com/[username]/abaquspy/blob/main/200px-Model_Ex.PNG?raw=true)
+![Alt text of the image](https://github.com/wmf54/abaquspy/blob/main/200px-Model_Ex.PNG)
 
 Figure 1: Deformed cube being pulled in tension.
 # Pre-processing and Running Simulations
